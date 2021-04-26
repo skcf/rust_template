@@ -7,9 +7,9 @@ use std::collections::*;
 
 fn main() {
     input! {
-        n: i32,
+        n: usize,
     };
 
-    let mut ans: i32 = 0;
+    let mut ans: usize = 0;
     println!("{}", ans);
 }
