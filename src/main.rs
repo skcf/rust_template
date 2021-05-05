@@ -4,6 +4,7 @@ use itertools::Itertools;
 use proconio::{input, marker::*};
 use std::cmp::*;
 use std::collections::*;
+use std::process::exit;
 
 fn main() {
     input! {
