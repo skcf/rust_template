@@ -2,6 +2,7 @@
 #![allow(unused_imports)]
 #![allow(unused_mut)]
 #![allow(unused_macros)]
+#![allow(unused_variables)]
 use itertools::Itertools;
 use proconio::{input, marker::*};
 use std::cmp::*;
